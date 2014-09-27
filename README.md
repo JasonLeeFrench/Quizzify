@@ -8,7 +8,7 @@ Requires Tabletop.js and jQuery.
 Usage
 ========
 
-1. Write your quiz ([example](https://docs.google.com/spreadsheets/d/1v8HD8KrmIIyt_qgPCxBG6N0XNnmwJbDrUQEfVE7aPK8/pubhtml))
+1. Write your quiz (<a href="https://docs.google.com/spreadsheets/d/1v8HD8KrmIIyt_qgPCxBG6N0XNnmwJbDrUQEfVE7aPK8/pubhtml" target="_blank">example</a>)
 2. Include Tabletop.js and jQuery (and maybe quizzify.min.css, though you can come up with your own)
 3. Paste in this, subbing YOUR_SPREADSHEET_ADDRESS for, uh, your spreadsheet address
 
