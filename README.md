@@ -24,6 +24,27 @@ Usage
 
 And you're done!
 
+Writing the Quiz
+------
+
+Lay out your spreadsheet like this... 
+
+```
+Section     First   Second  Third
+```
+
+... Where ***First***, ***Second*** and ***Third*** are the results the user can get for your quiz.
+
+Fill out the ***Section*** column with your questions.
+
+At the bottom of the ***Section*** column there should be two rows, called ***Results Title*** and ***Results***.
+
+Then, fill out the answer for each result! Images should be put in square braces, like [http://i.imgur.com/i4szPrq.jpg] this.
+
+Your ***Results Title*** should reflect what you want the user to see at the end of the quiz, and ***Results*** should go into more detail about their results.
+
+You can use HTML tags and everything if you need to.
+
 To Dos 
 ========
 
