@@ -1,5 +1,5 @@
 Quizzify
-========
+=========
 
 Make Buzzfeed-type personality quizzes from Google Spreadsheets: no fuss, no code (well, maybe a tiny bit).
 
