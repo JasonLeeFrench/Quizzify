@@ -117,7 +117,7 @@
             },
             make_questions: function(row, question_index) {
                 var question_container = $('<ol class="question_container question_' + question_index + '"></ol>');
-                question_container.append($('<h2>' + row.section + '</h2>'));
+                question_container.append($('<h2>' + row.Section + '</h2>'));
                 question_container.append(self.make_answers_for_questions(row, question_index));
                 container_elem.append(question_container);
                 question_container.append('<hr />');
